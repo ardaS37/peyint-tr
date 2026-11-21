@@ -11,3 +11,12 @@ Install the required Python package and run `main.py` (or `basla.bat`). The prog
 ## Release
 
 The Windows executable will be published in the repository's Releases section when available.
+
+<!-- project-screenshot-gallery:start -->
+## Screenshots
+
+<p>
+  <a href="docs/screenshots/readme/01-cokgen-cizimi.png"><img src="docs/screenshots/readme/01-cokgen-cizimi.png" alt="Polygon drawing" width="440"></a>
+  <a href="docs/screenshots/readme/02-yildiz-cizimi.png"><img src="docs/screenshots/readme/02-yildiz-cizimi.png" alt="Star drawing" width="440"></a>
+</p>
+<!-- project-screenshot-gallery:end -->
